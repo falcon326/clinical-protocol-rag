@@ -1,0 +1,21 @@
+[
+  {
+    "question": "What is the purpose of the mhGAP guideline?",
+    "reference_keywords": [
+      "mental",
+      "neurological",
+      "substance use",
+      "treatment gap"
+    ],
+    "source_id": "who-mhgap-2023"
+  },
+  {
+    "question": "Which groups of conditions are addressed by the mhGAP guideline?",
+    "reference_keywords": [
+      "mental",
+      "neurological",
+      "substance use"
+    ],
+    "source_id": "who-mhgap-2023"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "dataset_name": "WHO mhGAP Guideline Starter Corpus",
+  "documents": [
+    {
+      "id": "who-mhgap-2023",
+      "filename": "who_mhgap_guideline_2023.pdf",
+      "title": "Mental Health Gap Action Programme (mhGAP) guideline for mental, neurological and substance use disorders",
+      "edition": "Third edition",
+      "publisher": "World Health Organization",
+      "publication_date": "2023-11-20",
+      "pages": 184,
+      "isbn": "9789240084278",
+      "source_page": "https://www.who.int/publications/i/item/9789240084278",
+      "download_url": "https://iris.who.int/server/api/core/bitstreams/93e56376-0e64-4a08-bdd0-703313be5354/content",
+      "license": "CC BY-NC-SA 3.0 IGO (verify on source page; commercial use requires permission)"
+    }
+  ]
+}
